@@ -1,6 +1,6 @@
 ## Python PE Analyzer
 
-![[Pasted image 20240409160744.png]]
+![alt text](image.png)
 
 Python PE analyzer uses `pefile` library to statically analyze PE binaries, on top of that it also detects if there is a packer present. 
 
